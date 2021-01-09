@@ -1,10 +1,12 @@
 # Algorithm_Study
 - For my algorithm study ( Thanks to @pbg0205
 
-- 알고리즘 문제 풀이 내용을 정리한 저장소.
-- 하단의 전체 소스 코드들은 사이트에 답안을 제출하여 정답 처리를 받은 소스코드.
--
-## 문제풀이 사이트
+- Algorithm study archive.
+- All source codes below are source codes that have been answered correctly.
+- The purpose of this project is to solve the algorithm problems in the book more than once before the completion of the subscription to the algorithm book 
+- Also to solve one algorithm problem that not in book per day (more than 6 problems in a week). 
+
+## Site
 * [LeetCode](https://leetcode.com/)
 
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
@@ -13,9 +15,8 @@
 
 * [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 
-
-## 알고리즘 기록
-- [알고리즘 챌린지](https://github.com/UihyunJeong/Algorithm_Study/edit/main/README.md)
+## Book
+* [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview)
 
 ## Record
 - Algorithm Table    
