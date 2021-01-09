@@ -5,7 +5,7 @@
 - 하단의 전체 소스 코드들은 사이트에 답안을 제출하여 정답 처리를 받은 소스코드.
 -
 ## 문제풀이 사이트
-* [LeetCode] https://leetcode.com/
+* [LeetCode](https://leetcode.com/)
 
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
 
