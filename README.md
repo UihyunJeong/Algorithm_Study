@@ -1,5 +1,5 @@
 # Algorithm_Study
-- For my algorithm study ( Thanks to @pbg0205
+- For my algorithm study (Thanks to @pbg0205)
 
 - Algorithm study archive.
 - All source codes below are source codes that have been answered correctly.
