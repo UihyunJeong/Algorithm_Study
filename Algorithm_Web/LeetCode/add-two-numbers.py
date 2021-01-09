@@ -1,10 +1,3 @@
-'''
-update : 21.01.09
-url : https://leetcode.com/problems/add-two-numbers/
-
-category : greedy
-@copyright : UihyunJeong
-'''
 
 # Definition for singly-linked list.
 # class ListNode:
