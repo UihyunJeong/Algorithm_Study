@@ -22,11 +22,13 @@
 ### Algorithm Table  
 - Web [One day One Algorithm]
 |Update|Title|Question Link|My Code|Category|Last Update|
-    | ---- | ---- | ---- | ---- | ---- | ---- |
-    | 21.01.09 | 문자열 분석 | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add-two-numbers.py)|greedy| - |
+    | 21.01.06 | 실패율 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Programmers/42889.py) | greedy | - |
+    | 21.01.07 | 잃어버린 괄호 | [문제](https://www.acmicpc.net/problem/1541) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Backjoon/1541.py) | greedy | - |
+    | 21.01.09 | add-two-numbers | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add-two-numbers.py)|greedy| - |
     
 - Book [파이썬 알고리즘 인터뷰]
   |Update|Title|Question Link|My Code|Category|Last Update|
     | ---- | ---- | ---- | ---- | ---- | ---- |
     | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-| - |
     | 10824 | 네 수 | [문제](https://www.acmicpc.net/problem/10824) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10824/Main.java)|-| - |
+
