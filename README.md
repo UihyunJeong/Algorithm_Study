@@ -19,7 +19,13 @@
 * [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview) (start : 2021-01-01 / end : ~ ) 
 
 ## Record
-- Algorithm Table    
+### Algorithm Table  
+- Site [One day One Algorithm]
+|Update|Title|Question Link|My Code|Category|
+    | ---- | ---- | ---- | ---- | ---- |
+    | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-|
+    
+- Book [파이썬 알고리즘 인터뷰]
   |Update|Title|Question Link|My Code|Category|
     | ---- | ---- | ---- | ---- | ---- |
     | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-|
