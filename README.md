@@ -6,7 +6,7 @@
 - The purpose of this project is to solve the algorithm problems in the book more than once before the completion of the subscription to the algorithm book 
 - Also to solve one algorithm problem that not in book per day (more than 6 problems in a week). 
 
-## Site
+## Web
 * [LeetCode](https://leetcode.com/)
 
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
@@ -20,7 +20,7 @@
 
 ## Record
 ### Algorithm Table  
-- Site [One day One Algorithm]
+- Web [One day One Algorithm]
 |Update|Title|Question Link|My Code|Category|
     | ---- | ---- | ---- | ---- | ---- |
     | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-|
