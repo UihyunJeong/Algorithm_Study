@@ -23,7 +23,7 @@
 - Web [One day One Algorithm]
 |Update|Title|Question Link|My Code|Category|
     | ---- | ---- | ---- | ---- | ---- |
-    | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-|
+    | 21.01.09 | 문자열 분석 | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add-two-numbers.py)|greedy|
     
 - Book [파이썬 알고리즘 인터뷰]
   |Update|Title|Question Link|My Code|Category|
