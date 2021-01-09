@@ -21,12 +21,12 @@
 ## Record
 ### Algorithm Table  
 - Web [One day One Algorithm]
-|Update|Title|Question Link|My Code|Category|
-    | ---- | ---- | ---- | ---- | ---- |
-    | 21.01.09 | 문자열 분석 | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add-two-numbers.py)|greedy|
+|Update|Title|Question Link|My Code|Category|Last Update|
+    | ---- | ---- | ---- | ---- | ---- | ---- |
+    | 21.01.09 | 문자열 분석 | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add-two-numbers.py)|greedy| - |
     
 - Book [파이썬 알고리즘 인터뷰]
-  |Update|Title|Question Link|My Code|Category|
-    | ---- | ---- | ---- | ---- | ---- |
-    | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-|
-    | 10824 | 네 수 | [문제](https://www.acmicpc.net/problem/10824) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10824/Main.java)|-|
+  |Update|Title|Question Link|My Code|Category|Last Update|
+    | ---- | ---- | ---- | ---- | ---- | ---- |
+    | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-| - |
+    | 10824 | 네 수 | [문제](https://www.acmicpc.net/problem/10824) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10824/Main.java)|-| - |
