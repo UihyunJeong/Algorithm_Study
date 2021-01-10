@@ -30,6 +30,5 @@
 - Book [파이썬 알고리즘 인터뷰]
   |Update|Title|Question Link|My Code|Category|Last Update|
     | ---- | ---- | ---- | ---- | ---- | ---- |
-    | 01 | 문자열 분석 | [문제](https://www.acmicpc.net/problem/10820) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10820/Main.java)|-| - |
-    | 10824 | 네 수 | [문제](https://www.acmicpc.net/problem/10824) | [답안](https://github.com/pbg0205/algorithm_study/blob/master/Baekjoon/src/baekjoon10824/Main.java)|-| - |
-
+    | 21.01.10 | 팰린드롬 연결 리스트 | [문제](https://leetcode.com/problems/palindrome-linked-list/submissions/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Book/Python_Code_Interview/No13_palindrome_linked_list.py)|연결리스트(러너)| - |
+    
