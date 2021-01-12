@@ -21,7 +21,7 @@
 ## Record
 ### Algorithm Table  
 - Web [One day One Algorithm]
-|Update|Title, Best_Strategy|Question Link|My Code|My Category|Last Update|
+|Update|Title, Best_Strategy|Question Link|My Code|My Strategy|Last Update|
   | ---- | ---- | ---- | ---- | ---- | ---- |
   | 21.01.06 | 실패율(PR) | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Programmers/42889.py) | greedy | - |
   | 21.01.07 | 잃어버린 괄호(BA) | [문제](https://www.acmicpc.net/problem/1541) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Backjoon/1541.py) | greedy | - |
