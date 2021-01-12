@@ -26,6 +26,9 @@
   | 21.01.06 | 실패율(PR) | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Programmers/42889.py) | greedy | - |
   | 21.01.07 | 잃어버린 괄호(BA) | [문제](https://www.acmicpc.net/problem/1541) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Backjoon/1541.py) | greedy | - |
   | 21.01.09 | add-two-numbers(LE) | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add-two-numbers.py)|greedy| - |
+  | 21.01.12 | 오픈챗팅방(PR) | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Programmers/open_chat.py)|greedy| - |
+  
+  
     
 - Book [파이썬 알고리즘 인터뷰]
   |Update|Title|Question Link|My Code|Category|Last Update|
