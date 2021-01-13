@@ -37,3 +37,6 @@
     | 21.01.10 | 13 팰린드롬 연결 리스트 | [문제](https://leetcode.com/problems/palindrome-linked-list/submissions/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Book/Python_Code_Interview/13_palindrome_linked_list.py)|연결리스트(러너)| - |
     | 21.01.10 | 14 두 정렬 리스트의 병합 | [문제](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Book/Python_Code_Interview/14_merge_two_sorted_lists.py)|연결리스트(재귀)| - |
     
+
+
+@pbg : https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/
