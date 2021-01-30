@@ -36,6 +36,8 @@
     | ---- | ---- | ---- | ---- | ---- | ---- |
     | 21.01.10 | 13 팰린드롬 연결 리스트 | [문제](https://leetcode.com/problems/palindrome-linked-list/submissions/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Book/Python_Code_Interview/13_palindrome_linked_list.py)|연결리스트(러너)| - |
     | 21.01.10 | 14 두 정렬 리스트의 병합 | [문제](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Book/Python_Code_Interview/14_merge_two_sorted_lists.py)|연결리스트(재귀)| - |
+    | 21.01.30 | 15 연결리스트 역순 | [문제](https://leetcode.com/problems/reverse-linked-list/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/reverse_linked_list_loop.py)|연결리스트(재귀/순회)| - |
+    | 21.01.30 | 16 연결리스트 두 수 더하기 | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add_two_numbers.py)|연결리스트(순회)| - |
     
 
 
