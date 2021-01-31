@@ -28,6 +28,7 @@
   | 21.01.09 | add-two-numbers(LE) | [문제](https://leetcode.com/problems/add-two-numbers/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/LeetCode/add-two-numbers.py)|greedy| - |
   | 21.01.12 | 오픈챗팅방(PR) | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888?language=python3) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Programmers/open_chat.py)|greedy| - |
   | 21.01.12 | 연산자 끼워놓기(BK), DFS | [문제](https://www.acmicpc.net/submit/14888/) | [답안](https://github.com/UihyunJeong/Algorithm_Study/blob/main/Algorithm_Web/Backjoon/14888.py)|greedy| - |
+  | 21.01.30 | 프로그래머스 Level1 전체 완료 | [문제](https://programmers.co.kr/learn/challenges?tab=all_challenges) | [답안](_)|all clear| - |
   
   
     
